@@ -23,7 +23,7 @@ The goal of this project is to:
 
 ## 📷 Dashboard Preview
 
-[![Dashboard Preview](dashboard.png)](https://public.tableau.com/app/profile/harman.singh2278/viz/HRDashboard_17762313910130/HRSummary?publish=yes)
+[![Click here to view the Dashboard]](https://public.tableau.com/app/profile/harman.singh2278/viz/HRDashboard_17762313910130/HRSummary?publish=yes)
 
 ---
 
